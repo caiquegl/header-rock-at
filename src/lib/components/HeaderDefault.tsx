@@ -24,7 +24,7 @@ import Logo from "./logo.png";
 import { FiChevronRight } from "react-icons/fi";
 import { BiChevronDown, BiUserPlus } from "react-icons/bi";
 import { IoMdExit } from "react-icons/io";
-import { IProps } from ".";
+import { IProps } from "./props";
 
 const HeaderDefault = ({
   user,
