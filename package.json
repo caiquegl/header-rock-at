@@ -1,5 +1,5 @@
 {
-  "name": "header-rock-at-react",
+  "name": "header-rock-at",
   "description": "",
   "author": "caiquegl",
   "keywords": [
@@ -7,7 +7,7 @@
     "components",
     "ui"
   ],
-  "version": "1.3.2",
+  "version": "1.3.3",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -26,9 +26,14 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^29.2.2",
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.8",
     "framer-motion": "^7.6.4",
     "node-sass": "^5.0.0",
     "react-icons": "^4.6.0",
+    "typescript": "^4.8.4",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
